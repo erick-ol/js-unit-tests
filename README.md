@@ -1,6 +1,6 @@
 ## JavaScript Unit Test
 
-This was a project developed in the [Software Development Course at Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) as a challenge while I was learning how to use Jest with Unit Testing. Made on ```June 22nd, 2021```.
+This was a project developed in the [Software Development Course at Trybe](https://www.betrybe.com/formacao-desenvolvimento-web) as a challenge while I was learning Unit Testing. Made on ```June 22nd, 2021```.
 
 ### How to download and run the project code
 
